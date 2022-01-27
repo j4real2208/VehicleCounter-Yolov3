@@ -41,3 +41,5 @@ python3 yolo_video.py --input inputVideos/highway.mp4 --output outputVideos/high
 ```
 python3 yolo_video.py --input inputVideos/highway.mp4 --output outputVideos/highwayOut.avi --yolo yolo-coco --confidence 0.3
 ```
+## Reference
+* https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/ 
